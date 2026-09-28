@@ -1,0 +1,6900 @@
+[
+  {
+    "customer_id": 1,
+    "name": "Sadaf Iqbal",
+    "email": "sadafiqbal4911@gmail.com",
+    "city": "Kabirwala",
+    "orders": [
+      {
+        "order_id": 1,
+        "status": "completed",
+        "total": 661.0,
+        "products": [
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 3,
+            "price": 120.0
+          },
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 1,
+            "price": 85.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 3,
+            "price": 12.0
+          },
+          {
+            "product_name": "Webcam",
+            "quantity": 2,
+            "price": 90.0
+          }
+        ]
+      },
+      {
+        "order_id": 2,
+        "status": "processing",
+        "total": 615.0,
+        "products": [
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 1,
+            "price": 75.0
+          },
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 3,
+            "price": 180.0
+          }
+        ]
+      },
+      {
+        "order_id": 3,
+        "status": "processing",
+        "total": 40.0,
+        "products": [
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 2,
+            "price": 20.0
+          }
+        ]
+      },
+      {
+        "order_id": 4,
+        "status": "shipped",
+        "total": 120.0,
+        "products": [
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 2,
+            "price": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 2,
+    "name": "Ali Khan",
+    "email": "ali.khan15@example.com",
+    "city": "Sahiwal",
+    "orders": [
+      {
+        "order_id": 5,
+        "status": "completed",
+        "total": 90.0,
+        "products": [
+          {
+            "product_name": "Desk Mat",
+            "quantity": 3,
+            "price": 30.0
+          }
+        ]
+      },
+      {
+        "order_id": 6,
+        "status": "completed",
+        "total": 110.0,
+        "products": [
+          {
+            "product_name": "WiFi Router",
+            "quantity": 1,
+            "price": 110.0
+          }
+        ]
+      },
+      {
+        "order_id": 7,
+        "status": "processing",
+        "total": 335.0,
+        "products": [
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 3,
+            "price": 75.0
+          },
+          {
+            "product_name": "WiFi Router",
+            "quantity": 1,
+            "price": 110.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 3,
+    "name": "Ahmed Raza",
+    "email": "ahmed.raza95@example.com",
+    "city": "Lahore",
+    "orders": [
+      {
+        "order_id": 8,
+        "status": "processing",
+        "total": 1070.0,
+        "products": [
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 2,
+            "price": 150.0
+          },
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 3,
+            "price": 130.0
+          },
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 3,
+            "price": 20.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 2,
+            "price": 160.0
+          }
+        ]
+      },
+      {
+        "order_id": 9,
+        "status": "shipped",
+        "total": 1065.0,
+        "products": [
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 2,
+            "price": 60.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 1,
+            "price": 30.0
+          },
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 3,
+            "price": 25.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 3,
+            "price": 280.0
+          }
+        ]
+      },
+      {
+        "order_id": 10,
+        "status": "completed",
+        "total": 1200.0,
+        "products": [
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 3,
+            "price": 120.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 3,
+            "price": 280.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 4,
+    "name": "Usman Malik",
+    "email": "usman.malik32@example.com",
+    "city": "Gujranwala",
+    "orders": [
+      {
+        "order_id": 11,
+        "status": "completed",
+        "total": 90.0,
+        "products": [
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 2,
+            "price": 45.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 5,
+    "name": "Hamza Ahmed",
+    "email": "hamza.ahmed18@example.com",
+    "city": "Quetta",
+    "orders": [
+      {
+        "order_id": 12,
+        "status": "processing",
+        "total": 415.0,
+        "products": [
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 1,
+            "price": 85.0
+          },
+          {
+            "product_name": "WiFi Router",
+            "quantity": 3,
+            "price": 110.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 6,
+    "name": "Bilal Shah",
+    "email": "bilal.shah14@example.com",
+    "city": "Vehari",
+    "orders": [
+      {
+        "order_id": 13,
+        "status": "processing",
+        "total": 485.0,
+        "products": [
+          {
+            "product_name": "Desk Mat",
+            "quantity": 1,
+            "price": 30.0
+          },
+          {
+            "product_name": "WiFi Router",
+            "quantity": 1,
+            "price": 110.0
+          },
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 3,
+            "price": 15.0
+          },
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 2,
+            "price": 150.0
+          }
+        ]
+      },
+      {
+        "order_id": 14,
+        "status": "completed",
+        "total": 400.0,
+        "products": [
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 1,
+            "price": 15.0
+          },
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 2,
+            "price": 65.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 3,
+            "price": 45.0
+          },
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 2,
+            "price": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 7,
+    "name": "Hassan Ali",
+    "email": "hassan.ali95@example.com",
+    "city": "Kasur",
+    "orders": [
+      {
+        "order_id": 15,
+        "status": "completed",
+        "total": 430.0,
+        "products": [
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 2,
+            "price": 150.0
+          },
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 1,
+            "price": 130.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 8,
+    "name": "Talha Khan",
+    "email": "talha.khan70@example.com",
+    "city": "Bannu",
+    "orders": [
+      {
+        "order_id": 16,
+        "status": "completed",
+        "total": 500.0,
+        "products": [
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 2,
+            "price": 65.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 3,
+            "price": 30.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 1,
+            "price": 280.0
+          }
+        ]
+      },
+      {
+        "order_id": 17,
+        "status": "completed",
+        "total": 280.0,
+        "products": [
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 1,
+            "price": 280.0
+          }
+        ]
+      },
+      {
+        "order_id": 18,
+        "status": "completed",
+        "total": 485.0,
+        "products": [
+          {
+            "product_name": "WiFi Router",
+            "quantity": 1,
+            "price": 110.0
+          },
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 1,
+            "price": 20.0
+          },
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 2,
+            "price": 150.0
+          },
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 1,
+            "price": 55.0
+          }
+        ]
+      },
+      {
+        "order_id": 19,
+        "status": "shipped",
+        "total": 720.0,
+        "products": [
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 3,
+            "price": 65.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 3,
+            "price": 160.0
+          },
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 3,
+            "price": 15.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 9,
+    "name": "Owais Ahmad",
+    "email": "owais.ahmad76@example.com",
+    "city": "Islamabad",
+    "orders": [
+      {
+        "order_id": 20,
+        "status": "completed",
+        "total": 610.0,
+        "products": [
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 1,
+            "price": 160.0
+          },
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 3,
+            "price": 150.0
+          }
+        ]
+      },
+      {
+        "order_id": 21,
+        "status": "processing",
+        "total": 70.0,
+        "products": [
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 1,
+            "price": 70.0
+          }
+        ]
+      },
+      {
+        "order_id": 22,
+        "status": "completed",
+        "total": 191.0,
+        "products": [
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 3,
+            "price": 12.0
+          },
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 1,
+            "price": 20.0
+          },
+          {
+            "product_name": "Webcam",
+            "quantity": 1,
+            "price": 90.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 1,
+            "price": 45.0
+          }
+        ]
+      },
+      {
+        "order_id": 23,
+        "status": "processing",
+        "total": 60.0,
+        "products": [
+          {
+            "product_name": "Desk Mat",
+            "quantity": 2,
+            "price": 30.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 10,
+    "name": "Zain Abbas",
+    "email": "zain.abbas5@example.com",
+    "city": "Hyderabad",
+    "orders": [
+      {
+        "order_id": 24,
+        "status": "processing",
+        "total": 120.0,
+        "products": [
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 3,
+            "price": 25.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 1,
+            "price": 45.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 11,
+    "name": "Saad Ahmed",
+    "email": "saad.ahmed12@example.com",
+    "city": "Lahore",
+    "orders": [
+      {
+        "order_id": 25,
+        "status": "processing",
+        "total": 525.0,
+        "products": [
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 1,
+            "price": 85.0
+          },
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 2,
+            "price": 150.0
+          },
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 2,
+            "price": 70.0
+          }
+        ]
+      },
+      {
+        "order_id": 26,
+        "status": "completed",
+        "total": 1045.0,
+        "products": [
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 1,
+            "price": 65.0
+          },
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 2,
+            "price": 70.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 3,
+            "price": 280.0
+          }
+        ]
+      },
+      {
+        "order_id": 27,
+        "status": "processing",
+        "total": 840.0,
+        "products": [
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 3,
+            "price": 280.0
+          }
+        ]
+      },
+      {
+        "order_id": 28,
+        "status": "completed",
+        "total": 995.0,
+        "products": [
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 1,
+            "price": 75.0
+          },
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 2,
+            "price": 180.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 2,
+            "price": 280.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 12,
+    "name": "Ahsan Raza",
+    "email": "ahsan.raza30@example.com",
+    "city": "Peshawar",
+    "orders": [
+      {
+        "order_id": 29,
+        "status": "shipped",
+        "total": 336.0,
+        "products": [
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 3,
+            "price": 20.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 3,
+            "price": 12.0
+          },
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 2,
+            "price": 120.0
+          }
+        ]
+      },
+      {
+        "order_id": 30,
+        "status": "completed",
+        "total": 265.0,
+        "products": [
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 1,
+            "price": 85.0
+          },
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 3,
+            "price": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 13,
+    "name": "Fahad Khan",
+    "email": "fahad.khan78@example.com",
+    "city": "Gujrat",
+    "orders": [
+      {
+        "order_id": 31,
+        "status": "completed",
+        "total": 820.0,
+        "products": [
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 1,
+            "price": 160.0
+          },
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 3,
+            "price": 150.0
+          },
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 3,
+            "price": 70.0
+          }
+        ]
+      },
+      {
+        "order_id": 32,
+        "status": "completed",
+        "total": 525.0,
+        "products": [
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 2,
+            "price": 85.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 1,
+            "price": 45.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 1,
+            "price": 280.0
+          },
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 2,
+            "price": 15.0
+          }
+        ]
+      },
+      {
+        "order_id": 33,
+        "status": "completed",
+        "total": 790.0,
+        "products": [
+          {
+            "product_name": "Webcam",
+            "quantity": 3,
+            "price": 90.0
+          },
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 2,
+            "price": 65.0
+          },
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 3,
+            "price": 130.0
+          }
+        ]
+      },
+      {
+        "order_id": 34,
+        "status": "completed",
+        "total": 840.0,
+        "products": [
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 3,
+            "price": 280.0
+          }
+        ]
+      },
+      {
+        "order_id": 35,
+        "status": "completed",
+        "total": 540.0,
+        "products": [
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 3,
+            "price": 180.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 14,
+    "name": "Danish Iqbal",
+    "email": "danish.iqbal72@example.com",
+    "city": "Lahore",
+    "orders": [
+      {
+        "order_id": 36,
+        "status": "completed",
+        "total": 865.0,
+        "products": [
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 1,
+            "price": 75.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 2,
+            "price": 45.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 1,
+            "price": 160.0
+          },
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 3,
+            "price": 180.0
+          }
+        ]
+      },
+      {
+        "order_id": 37,
+        "status": "completed",
+        "total": 540.0,
+        "products": [
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 3,
+            "price": 180.0
+          }
+        ]
+      },
+      {
+        "order_id": 38,
+        "status": "shipped",
+        "total": 210.0,
+        "products": [
+          {
+            "product_name": "Desk Mat",
+            "quantity": 1,
+            "price": 30.0
+          },
+          {
+            "product_name": "Webcam",
+            "quantity": 2,
+            "price": 90.0
+          }
+        ]
+      },
+      {
+        "order_id": 39,
+        "status": "completed",
+        "total": 255.0,
+        "products": [
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 3,
+            "price": 70.0
+          },
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 3,
+            "price": 15.0
+          }
+        ]
+      },
+      {
+        "order_id": 40,
+        "status": "completed",
+        "total": 265.0,
+        "products": [
+          {
+            "product_name": "Webcam",
+            "quantity": 1,
+            "price": 90.0
+          },
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 2,
+            "price": 60.0
+          },
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 1,
+            "price": 55.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 15,
+    "name": "Arslan Javed",
+    "email": "arslan.javed92@example.com",
+    "city": "Peshawar",
+    "orders": [
+      {
+        "order_id": 41,
+        "status": "shipped",
+        "total": 275.0,
+        "products": [
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 1,
+            "price": 160.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 3,
+            "price": 30.0
+          },
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 1,
+            "price": 25.0
+          }
+        ]
+      },
+      {
+        "order_id": 42,
+        "status": "shipped",
+        "total": 1070.0,
+        "products": [
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 2,
+            "price": 85.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 3,
+            "price": 280.0
+          },
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 3,
+            "price": 20.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 16,
+    "name": "Waqas Ahmed",
+    "email": "waqas.ahmed90@example.com",
+    "city": "Sahiwal",
+    "orders": [
+      {
+        "order_id": 43,
+        "status": "processing",
+        "total": 470.0,
+        "products": [
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 1,
+            "price": 120.0
+          },
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 3,
+            "price": 60.0
+          },
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 2,
+            "price": 85.0
+          }
+        ]
+      },
+      {
+        "order_id": 44,
+        "status": "completed",
+        "total": 40.0,
+        "products": [
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 2,
+            "price": 20.0
+          }
+        ]
+      },
+      {
+        "order_id": 45,
+        "status": "completed",
+        "total": 126.0,
+        "products": [
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 2,
+            "price": 15.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 3,
+            "price": 12.0
+          },
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 1,
+            "price": 60.0
+          }
+        ]
+      },
+      {
+        "order_id": 46,
+        "status": "completed",
+        "total": 15.0,
+        "products": [
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 1,
+            "price": 15.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 17,
+    "name": "Imran Shah",
+    "email": "imran.shah54@example.com",
+    "city": "Rahim Yar Khan",
+    "orders": [
+      {
+        "order_id": 47,
+        "status": "processing",
+        "total": 225.0,
+        "products": [
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 1,
+            "price": 180.0
+          },
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 3,
+            "price": 15.0
+          }
+        ]
+      },
+      {
+        "order_id": 48,
+        "status": "completed",
+        "total": 624.0,
+        "products": [
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 2,
+            "price": 60.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 3,
+            "price": 160.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 2,
+            "price": 12.0
+          }
+        ]
+      },
+      {
+        "order_id": 49,
+        "status": "completed",
+        "total": 1310.0,
+        "products": [
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 2,
+            "price": 160.0
+          },
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 3,
+            "price": 130.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 2,
+            "price": 75.0
+          },
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 3,
+            "price": 150.0
+          }
+        ]
+      },
+      {
+        "order_id": 50,
+        "status": "completed",
+        "total": 490.0,
+        "products": [
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 2,
+            "price": 55.0
+          },
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 2,
+            "price": 130.0
+          },
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 1,
+            "price": 120.0
+          }
+        ]
+      },
+      {
+        "order_id": 51,
+        "status": "shipped",
+        "total": 290.0,
+        "products": [
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 3,
+            "price": 65.0
+          },
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 1,
+            "price": 20.0
+          },
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 3,
+            "price": 25.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 18,
+    "name": "Abdullah Khan",
+    "email": "abdullah.khan58@example.com",
+    "city": "Quetta",
+    "orders": [
+      {
+        "order_id": 52,
+        "status": "completed",
+        "total": 480.0,
+        "products": [
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 3,
+            "price": 160.0
+          }
+        ]
+      },
+      {
+        "order_id": 53,
+        "status": "processing",
+        "total": 470.0,
+        "products": [
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 1,
+            "price": 280.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 1,
+            "price": 30.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 1,
+            "price": 160.0
+          }
+        ]
+      },
+      {
+        "order_id": 54,
+        "status": "completed",
+        "total": 60.0,
+        "products": [
+          {
+            "product_name": "Desk Mat",
+            "quantity": 2,
+            "price": 30.0
+          }
+        ]
+      },
+      {
+        "order_id": 55,
+        "status": "processing",
+        "total": 130.0,
+        "products": [
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 2,
+            "price": 65.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 19,
+    "name": "Muneeb Hassan",
+    "email": "muneeb.hassan36@example.com",
+    "city": "Jhelum",
+    "orders": [
+      {
+        "order_id": 56,
+        "status": "completed",
+        "total": 600.0,
+        "products": [
+          {
+            "product_name": "WiFi Router",
+            "quantity": 3,
+            "price": 110.0
+          },
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 3,
+            "price": 55.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 1,
+            "price": 30.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 1,
+            "price": 75.0
+          }
+        ]
+      },
+      {
+        "order_id": 57,
+        "status": "shipped",
+        "total": 192.0,
+        "products": [
+          {
+            "product_name": "Webcam",
+            "quantity": 2,
+            "price": 90.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 1,
+            "price": 12.0
+          }
+        ]
+      },
+      {
+        "order_id": 58,
+        "status": "processing",
+        "total": 190.0,
+        "products": [
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 1,
+            "price": 60.0
+          },
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 2,
+            "price": 65.0
+          }
+        ]
+      },
+      {
+        "order_id": 59,
+        "status": "processing",
+        "total": 234.0,
+        "products": [
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 3,
+            "price": 65.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 2,
+            "price": 12.0
+          },
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 1,
+            "price": 15.0
+          }
+        ]
+      },
+      {
+        "order_id": 60,
+        "status": "shipped",
+        "total": 304.0,
+        "products": [
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 2,
+            "price": 85.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 3,
+            "price": 30.0
+          },
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 1,
+            "price": 20.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 2,
+            "price": 12.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 20,
+    "name": "Umer Farooq",
+    "email": "umer.farooq1@example.com",
+    "city": "Kabirwala",
+    "orders": [
+      {
+        "order_id": 61,
+        "status": "completed",
+        "total": 385.0,
+        "products": [
+          {
+            "product_name": "Desk Mat",
+            "quantity": 2,
+            "price": 30.0
+          },
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 3,
+            "price": 85.0
+          },
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 1,
+            "price": 70.0
+          }
+        ]
+      },
+      {
+        "order_id": 62,
+        "status": "completed",
+        "total": 145.0,
+        "products": [
+          {
+            "product_name": "Desk Mat",
+            "quantity": 3,
+            "price": 30.0
+          },
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 1,
+            "price": 55.0
+          }
+        ]
+      },
+      {
+        "order_id": 63,
+        "status": "completed",
+        "total": 30.0,
+        "products": [
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 2,
+            "price": 15.0
+          }
+        ]
+      },
+      {
+        "order_id": 64,
+        "status": "completed",
+        "total": 635.0,
+        "products": [
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 2,
+            "price": 15.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 3,
+            "price": 45.0
+          },
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 3,
+            "price": 150.0
+          },
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 1,
+            "price": 20.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 21,
+    "name": "Junaid Tariq",
+    "email": "junaid.tariq21@example.com",
+    "city": "Khanewal",
+    "orders": [
+      {
+        "order_id": 65,
+        "status": "shipped",
+        "total": 1425.0,
+        "products": [
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 2,
+            "price": 120.0
+          },
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 3,
+            "price": 180.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 3,
+            "price": 160.0
+          },
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 3,
+            "price": 55.0
+          }
+        ]
+      },
+      {
+        "order_id": 66,
+        "status": "processing",
+        "total": 280.0,
+        "products": [
+          {
+            "product_name": "WiFi Router",
+            "quantity": 2,
+            "price": 110.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 2,
+            "price": 30.0
+          }
+        ]
+      },
+      {
+        "order_id": 67,
+        "status": "shipped",
+        "total": 110.0,
+        "products": [
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 2,
+            "price": 55.0
+          }
+        ]
+      },
+      {
+        "order_id": 68,
+        "status": "shipped",
+        "total": 420.0,
+        "products": [
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 3,
+            "price": 65.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 3,
+            "price": 75.0
+          }
+        ]
+      },
+      {
+        "order_id": 69,
+        "status": "completed",
+        "total": 795.0,
+        "products": [
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 3,
+            "price": 25.0
+          },
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 2,
+            "price": 20.0
+          },
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 1,
+            "price": 120.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 2,
+            "price": 280.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 22,
+    "name": "Faaiz Ali Tariq",
+    "email": "faaiz.tariq55@example.com",
+    "city": "Sheikhupura",
+    "orders": [
+      {
+        "order_id": 70,
+        "status": "completed",
+        "total": 550.0,
+        "products": [
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 2,
+            "price": 55.0
+          },
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 2,
+            "price": 70.0
+          },
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 2,
+            "price": 150.0
+          }
+        ]
+      },
+      {
+        "order_id": 71,
+        "status": "shipped",
+        "total": 955.0,
+        "products": [
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 2,
+            "price": 15.0
+          },
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 1,
+            "price": 85.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 3,
+            "price": 280.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 23,
+    "name": "Abeeha Younas",
+    "email": "abeeha.younas36@example.com",
+    "city": "Bahawalpur",
+    "orders": [
+      {
+        "order_id": 72,
+        "status": "completed",
+        "total": 355.0,
+        "products": [
+          {
+            "product_name": "Desk Mat",
+            "quantity": 1,
+            "price": 30.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 1,
+            "price": 280.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 1,
+            "price": 45.0
+          }
+        ]
+      },
+      {
+        "order_id": 73,
+        "status": "completed",
+        "total": 285.0,
+        "products": [
+          {
+            "product_name": "Desk Mat",
+            "quantity": 2,
+            "price": 30.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 3,
+            "price": 75.0
+          }
+        ]
+      },
+      {
+        "order_id": 74,
+        "status": "completed",
+        "total": 215.0,
+        "products": [
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 2,
+            "price": 65.0
+          },
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 1,
+            "price": 85.0
+          }
+        ]
+      },
+      {
+        "order_id": 75,
+        "status": "processing",
+        "total": 180.0,
+        "products": [
+          {
+            "product_name": "Webcam",
+            "quantity": 2,
+            "price": 90.0
+          }
+        ]
+      },
+      {
+        "order_id": 76,
+        "status": "completed",
+        "total": 480.0,
+        "products": [
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 3,
+            "price": 160.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 24,
+    "name": "Ayesha Tariq",
+    "email": "ayesha.tariq28@example.com",
+    "city": "Faisalabad",
+    "orders": [
+      {
+        "order_id": 77,
+        "status": "shipped",
+        "total": 915.0,
+        "products": [
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 3,
+            "price": 280.0
+          },
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 3,
+            "price": 25.0
+          }
+        ]
+      },
+      {
+        "order_id": 78,
+        "status": "completed",
+        "total": 480.0,
+        "products": [
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 3,
+            "price": 160.0
+          }
+        ]
+      },
+      {
+        "order_id": 79,
+        "status": "processing",
+        "total": 25.0,
+        "products": [
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 1,
+            "price": 25.0
+          }
+        ]
+      },
+      {
+        "order_id": 80,
+        "status": "completed",
+        "total": 834.0,
+        "products": [
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 1,
+            "price": 180.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 2,
+            "price": 280.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 2,
+            "price": 12.0
+          },
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 1,
+            "price": 70.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 25,
+    "name": "Sara Ahmed",
+    "email": "sara.ahmed44@example.com",
+    "city": "Khanewal",
+    "orders": [
+      {
+        "order_id": 81,
+        "status": "completed",
+        "total": 561.0,
+        "products": [
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 3,
+            "price": 75.0
+          },
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 2,
+            "price": 15.0
+          },
+          {
+            "product_name": "Webcam",
+            "quantity": 3,
+            "price": 90.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 3,
+            "price": 12.0
+          }
+        ]
+      },
+      {
+        "order_id": 82,
+        "status": "shipped",
+        "total": 350.0,
+        "products": [
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 1,
+            "price": 15.0
+          },
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 1,
+            "price": 25.0
+          },
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 2,
+            "price": 85.0
+          },
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 2,
+            "price": 70.0
+          }
+        ]
+      },
+      {
+        "order_id": 83,
+        "status": "completed",
+        "total": 470.0,
+        "products": [
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 2,
+            "price": 25.0
+          },
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 2,
+            "price": 55.0
+          },
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 1,
+            "price": 70.0
+          },
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 2,
+            "price": 120.0
+          }
+        ]
+      },
+      {
+        "order_id": 84,
+        "status": "completed",
+        "total": 505.0,
+        "products": [
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 3,
+            "price": 85.0
+          },
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 3,
+            "price": 70.0
+          },
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 2,
+            "price": 20.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 26,
+    "name": "Fatima Zahra",
+    "email": "fatima.zahra12@example.com",
+    "city": "Rawalpindi",
+    "orders": [
+      {
+        "order_id": 85,
+        "status": "completed",
+        "total": 900.0,
+        "products": [
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 3,
+            "price": 280.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 2,
+            "price": 30.0
+          }
+        ]
+      },
+      {
+        "order_id": 86,
+        "status": "shipped",
+        "total": 240.0,
+        "products": [
+          {
+            "product_name": "WiFi Router",
+            "quantity": 2,
+            "price": 110.0
+          },
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 1,
+            "price": 20.0
+          }
+        ]
+      },
+      {
+        "order_id": 87,
+        "status": "completed",
+        "total": 285.0,
+        "products": [
+          {
+            "product_name": "Desk Mat",
+            "quantity": 2,
+            "price": 30.0
+          },
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 3,
+            "price": 55.0
+          },
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 3,
+            "price": 20.0
+          }
+        ]
+      },
+      {
+        "order_id": 88,
+        "status": "completed",
+        "total": 816.0,
+        "products": [
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 3,
+            "price": 130.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 3,
+            "price": 12.0
+          },
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 2,
+            "price": 180.0
+          },
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 2,
+            "price": 15.0
+          }
+        ]
+      },
+      {
+        "order_id": 89,
+        "status": "shipped",
+        "total": 445.0,
+        "products": [
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 1,
+            "price": 160.0
+          },
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 3,
+            "price": 85.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 1,
+            "price": 30.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 27,
+    "name": "Hira Khan",
+    "email": "hira.khan13@example.com",
+    "city": "Sukkur",
+    "orders": [
+      {
+        "order_id": 90,
+        "status": "completed",
+        "total": 490.0,
+        "products": [
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 3,
+            "price": 150.0
+          },
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 2,
+            "price": 20.0
+          }
+        ]
+      },
+      {
+        "order_id": 91,
+        "status": "completed",
+        "total": 520.0,
+        "products": [
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 1,
+            "price": 60.0
+          },
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 2,
+            "price": 150.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 1,
+            "price": 160.0
+          }
+        ]
+      },
+      {
+        "order_id": 92,
+        "status": "completed",
+        "total": 130.0,
+        "products": [
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 1,
+            "price": 130.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 28,
+    "name": "Maham Raza",
+    "email": "maham.raza45@example.com",
+    "city": "Sargodha",
+    "orders": [
+      {
+        "order_id": 93,
+        "status": "completed",
+        "total": 260.0,
+        "products": [
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 2,
+            "price": 130.0
+          }
+        ]
+      },
+      {
+        "order_id": 94,
+        "status": "completed",
+        "total": 790.0,
+        "products": [
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 2,
+            "price": 60.0
+          },
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 2,
+            "price": 120.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 2,
+            "price": 160.0
+          },
+          {
+            "product_name": "WiFi Router",
+            "quantity": 1,
+            "price": 110.0
+          }
+        ]
+      },
+      {
+        "order_id": 95,
+        "status": "completed",
+        "total": 620.0,
+        "products": [
+          {
+            "product_name": "WiFi Router",
+            "quantity": 2,
+            "price": 110.0
+          },
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 2,
+            "price": 60.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 1,
+            "price": 280.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 29,
+    "name": "Iqra Ahmed",
+    "email": "iqra.ahmed34@example.com",
+    "city": "Okara",
+    "orders": [
+      {
+        "order_id": 96,
+        "status": "completed",
+        "total": 175.0,
+        "products": [
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 2,
+            "price": 75.0
+          },
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 1,
+            "price": 25.0
+          }
+        ]
+      },
+      {
+        "order_id": 97,
+        "status": "completed",
+        "total": 260.0,
+        "products": [
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 2,
+            "price": 130.0
+          }
+        ]
+      },
+      {
+        "order_id": 98,
+        "status": "processing",
+        "total": 134.0,
+        "products": [
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 2,
+            "price": 12.0
+          },
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 2,
+            "price": 55.0
+          }
+        ]
+      },
+      {
+        "order_id": 99,
+        "status": "completed",
+        "total": 400.0,
+        "products": [
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 1,
+            "price": 160.0
+          },
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 3,
+            "price": 25.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 1,
+            "price": 45.0
+          },
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 2,
+            "price": 60.0
+          }
+        ]
+      },
+      {
+        "order_id": 100,
+        "status": "completed",
+        "total": 180.0,
+        "products": [
+          {
+            "product_name": "Desk Mat",
+            "quantity": 3,
+            "price": 30.0
+          },
+          {
+            "product_name": "Webcam",
+            "quantity": 1,
+            "price": 90.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 30,
+    "name": "Zainab Ali",
+    "email": "zainab.ali6@example.com",
+    "city": "Kabirwala",
+    "orders": [
+      {
+        "order_id": 101,
+        "status": "completed",
+        "total": 855.0,
+        "products": [
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 1,
+            "price": 65.0
+          },
+          {
+            "product_name": "WiFi Router",
+            "quantity": 2,
+            "price": 110.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 3,
+            "price": 160.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 2,
+            "price": 45.0
+          }
+        ]
+      },
+      {
+        "order_id": 102,
+        "status": "shipped",
+        "total": 60.0,
+        "products": [
+          {
+            "product_name": "Desk Mat",
+            "quantity": 2,
+            "price": 30.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 31,
+    "name": "Maryam Khan",
+    "email": "maryam.khan59@example.com",
+    "city": "Vehari",
+    "orders": [
+      {
+        "order_id": 103,
+        "status": "completed",
+        "total": 355.0,
+        "products": [
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 2,
+            "price": 60.0
+          },
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 1,
+            "price": 130.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 1,
+            "price": 30.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 1,
+            "price": 75.0
+          }
+        ]
+      },
+      {
+        "order_id": 104,
+        "status": "completed",
+        "total": 385.0,
+        "products": [
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 2,
+            "price": 20.0
+          },
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 1,
+            "price": 25.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 2,
+            "price": 160.0
+          }
+        ]
+      },
+      {
+        "order_id": 105,
+        "status": "completed",
+        "total": 682.0,
+        "products": [
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 2,
+            "price": 85.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 1,
+            "price": 12.0
+          },
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 3,
+            "price": 130.0
+          },
+          {
+            "product_name": "WiFi Router",
+            "quantity": 1,
+            "price": 110.0
+          }
+        ]
+      },
+      {
+        "order_id": 106,
+        "status": "shipped",
+        "total": 465.0,
+        "products": [
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 1,
+            "price": 20.0
+          },
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 1,
+            "price": 85.0
+          },
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 3,
+            "price": 120.0
+          }
+        ]
+      },
+      {
+        "order_id": 107,
+        "status": "processing",
+        "total": 255.0,
+        "products": [
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 3,
+            "price": 85.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 32,
+    "name": "Areeba Shah",
+    "email": "areeba.shah16@example.com",
+    "city": "Rahim Yar Khan",
+    "orders": [
+      {
+        "order_id": 108,
+        "status": "completed",
+        "total": 601.0,
+        "products": [
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 3,
+            "price": 12.0
+          },
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 2,
+            "price": 65.0
+          },
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 3,
+            "price": 85.0
+          },
+          {
+            "product_name": "Webcam",
+            "quantity": 2,
+            "price": 90.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 33,
+    "name": "Anam Javed",
+    "email": "anam.javed49@example.com",
+    "city": "Swat",
+    "orders": [
+      {
+        "order_id": 109,
+        "status": "shipped",
+        "total": 140.0,
+        "products": [
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 3,
+            "price": 15.0
+          },
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 1,
+            "price": 70.0
+          },
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 1,
+            "price": 25.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 34,
+    "name": "Laiba Ahmed",
+    "email": "laiba.ahmed71@example.com",
+    "city": "Islamabad",
+    "orders": [
+      {
+        "order_id": 110,
+        "status": "shipped",
+        "total": 725.0,
+        "products": [
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 2,
+            "price": 160.0
+          },
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 1,
+            "price": 55.0
+          },
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 2,
+            "price": 130.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 2,
+            "price": 45.0
+          }
+        ]
+      },
+      {
+        "order_id": 111,
+        "status": "completed",
+        "total": 165.0,
+        "products": [
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 3,
+            "price": 55.0
+          }
+        ]
+      },
+      {
+        "order_id": 112,
+        "status": "completed",
+        "total": 501.0,
+        "products": [
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 2,
+            "price": 15.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 3,
+            "price": 45.0
+          },
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 2,
+            "price": 150.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 3,
+            "price": 12.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 35,
+    "name": "Komal Raza",
+    "email": "komal.raza81@example.com",
+    "city": "Sialkot",
+    "orders": [
+      {
+        "order_id": 113,
+        "status": "completed",
+        "total": 345.0,
+        "products": [
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 1,
+            "price": 85.0
+          },
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 2,
+            "price": 130.0
+          }
+        ]
+      },
+      {
+        "order_id": 114,
+        "status": "shipped",
+        "total": 780.0,
+        "products": [
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 2,
+            "price": 60.0
+          },
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 3,
+            "price": 120.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 1,
+            "price": 30.0
+          },
+          {
+            "product_name": "Webcam",
+            "quantity": 3,
+            "price": 90.0
+          }
+        ]
+      },
+      {
+        "order_id": 115,
+        "status": "shipped",
+        "total": 30.0,
+        "products": [
+          {
+            "product_name": "Desk Mat",
+            "quantity": 1,
+            "price": 30.0
+          }
+        ]
+      },
+      {
+        "order_id": 116,
+        "status": "shipped",
+        "total": 150.0,
+        "products": [
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 2,
+            "price": 75.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 36,
+    "name": "Eman Fatima",
+    "email": "eman.fatima47@example.com",
+    "city": "Okara",
+    "orders": [
+      {
+        "order_id": 117,
+        "status": "processing",
+        "total": 310.0,
+        "products": [
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 1,
+            "price": 15.0
+          },
+          {
+            "product_name": "WiFi Router",
+            "quantity": 2,
+            "price": 110.0
+          },
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 3,
+            "price": 25.0
+          }
+        ]
+      },
+      {
+        "order_id": 118,
+        "status": "completed",
+        "total": 1314.0,
+        "products": [
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 2,
+            "price": 150.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 2,
+            "price": 12.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 2,
+            "price": 75.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 3,
+            "price": 280.0
+          }
+        ]
+      },
+      {
+        "order_id": 119,
+        "status": "completed",
+        "total": 480.0,
+        "products": [
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 3,
+            "price": 160.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 37,
+    "name": "Mehwish Ali",
+    "email": "mehwish.ali25@example.com",
+    "city": "Jhelum",
+    "orders": [
+      {
+        "order_id": 120,
+        "status": "processing",
+        "total": 1000.0,
+        "products": [
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 2,
+            "price": 75.0
+          },
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 2,
+            "price": 65.0
+          },
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 3,
+            "price": 130.0
+          },
+          {
+            "product_name": "WiFi Router",
+            "quantity": 3,
+            "price": 110.0
+          }
+        ]
+      },
+      {
+        "order_id": 121,
+        "status": "shipped",
+        "total": 510.0,
+        "products": [
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 1,
+            "price": 70.0
+          },
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 2,
+            "price": 150.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 1,
+            "price": 30.0
+          },
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 2,
+            "price": 55.0
+          }
+        ]
+      },
+      {
+        "order_id": 122,
+        "status": "shipped",
+        "total": 700.0,
+        "products": [
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 1,
+            "price": 55.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 3,
+            "price": 75.0
+          },
+          {
+            "product_name": "WiFi Router",
+            "quantity": 3,
+            "price": 110.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 2,
+            "price": 45.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 38,
+    "name": "Hailey Anderson",
+    "email": "hailey.anderson72@example.com",
+    "city": "Sheikhupura",
+    "orders": [
+      {
+        "order_id": 123,
+        "status": "shipped",
+        "total": 24.0,
+        "products": [
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 2,
+            "price": 12.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 39,
+    "name": "Jennifer Gonzalez",
+    "email": "jennifer.gonzalez678@example.com",
+    "city": "Karachi",
+    "orders": [
+      {
+        "order_id": 124,
+        "status": "completed",
+        "total": 1490.0,
+        "products": [
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 2,
+            "price": 75.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 3,
+            "price": 280.0
+          },
+          {
+            "product_name": "WiFi Router",
+            "quantity": 3,
+            "price": 110.0
+          },
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 2,
+            "price": 85.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 40,
+    "name": "Ryan Manning",
+    "email": "ryan.manning792@example.com",
+    "city": "Quetta",
+    "orders": [
+      {
+        "order_id": 125,
+        "status": "completed",
+        "total": 585.0,
+        "products": [
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 3,
+            "price": 70.0
+          },
+          {
+            "product_name": "WiFi Router",
+            "quantity": 1,
+            "price": 110.0
+          },
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 1,
+            "price": 130.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 3,
+            "price": 45.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 41,
+    "name": "Oscar Smith",
+    "email": "oscar.smith82@example.com",
+    "city": "Sialkot",
+    "orders": [
+      {
+        "order_id": 126,
+        "status": "completed",
+        "total": 15.0,
+        "products": [
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 1,
+            "price": 15.0
+          }
+        ]
+      },
+      {
+        "order_id": 127,
+        "status": "completed",
+        "total": 670.0,
+        "products": [
+          {
+            "product_name": "Webcam",
+            "quantity": 2,
+            "price": 90.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 1,
+            "price": 160.0
+          },
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 2,
+            "price": 120.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 2,
+            "price": 45.0
+          }
+        ]
+      },
+      {
+        "order_id": 128,
+        "status": "completed",
+        "total": 342.0,
+        "products": [
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 3,
+            "price": 75.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 3,
+            "price": 30.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 1,
+            "price": 12.0
+          },
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 1,
+            "price": 15.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 42,
+    "name": "Rebecca Anderson",
+    "email": "rebecca.anderson239@example.com",
+    "city": "Dera Ghazi Khan",
+    "orders": [
+      {
+        "order_id": 129,
+        "status": "completed",
+        "total": 560.0,
+        "products": [
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 1,
+            "price": 20.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 2,
+            "price": 30.0
+          },
+          {
+            "product_name": "WiFi Router",
+            "quantity": 3,
+            "price": 110.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 2,
+            "price": 75.0
+          }
+        ]
+      },
+      {
+        "order_id": 130,
+        "status": "shipped",
+        "total": 715.0,
+        "products": [
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 3,
+            "price": 120.0
+          },
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 3,
+            "price": 65.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 1,
+            "price": 160.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 43,
+    "name": "Diane Olson",
+    "email": "diane.olson104@example.com",
+    "city": "Dera Ghazi Khan",
+    "orders": [
+      {
+        "order_id": 131,
+        "status": "shipped",
+        "total": 425.0,
+        "products": [
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 3,
+            "price": 25.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 2,
+            "price": 160.0
+          },
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 2,
+            "price": 15.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 44,
+    "name": "Nathan Sawyer",
+    "email": "nathan.sawyer285@example.com",
+    "city": "Sukkur",
+    "orders": [
+      {
+        "order_id": 132,
+        "status": "completed",
+        "total": 650.0,
+        "products": [
+          {
+            "product_name": "WiFi Router",
+            "quantity": 3,
+            "price": 110.0
+          },
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 2,
+            "price": 60.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 3,
+            "price": 30.0
+          },
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 2,
+            "price": 55.0
+          }
+        ]
+      },
+      {
+        "order_id": 133,
+        "status": "completed",
+        "total": 110.0,
+        "products": [
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 2,
+            "price": 55.0
+          }
+        ]
+      },
+      {
+        "order_id": 134,
+        "status": "completed",
+        "total": 60.0,
+        "products": [
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 3,
+            "price": 20.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 45,
+    "name": "Anthony Stone",
+    "email": "anthony.stone651@example.com",
+    "city": "Abbottabad",
+    "orders": [
+      {
+        "order_id": 135,
+        "status": "completed",
+        "total": 560.0,
+        "products": [
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 1,
+            "price": 20.0
+          },
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 3,
+            "price": 180.0
+          }
+        ]
+      },
+      {
+        "order_id": 136,
+        "status": "completed",
+        "total": 315.0,
+        "products": [
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 2,
+            "price": 75.0
+          },
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 2,
+            "price": 60.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 1,
+            "price": 45.0
+          }
+        ]
+      },
+      {
+        "order_id": 137,
+        "status": "processing",
+        "total": 1310.0,
+        "products": [
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 2,
+            "price": 75.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 3,
+            "price": 280.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 2,
+            "price": 160.0
+          }
+        ]
+      },
+      {
+        "order_id": 138,
+        "status": "completed",
+        "total": 540.0,
+        "products": [
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 2,
+            "price": 75.0
+          },
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 3,
+            "price": 130.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 46,
+    "name": "Kendra Rodriguez",
+    "email": "kendra.rodriguez374@example.com",
+    "city": "Muzaffargarh",
+    "orders": [
+      {
+        "order_id": 139,
+        "status": "completed",
+        "total": 500.0,
+        "products": [
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 2,
+            "price": 85.0
+          },
+          {
+            "product_name": "WiFi Router",
+            "quantity": 3,
+            "price": 110.0
+          }
+        ]
+      },
+      {
+        "order_id": 140,
+        "status": "completed",
+        "total": 65.0,
+        "products": [
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 1,
+            "price": 65.0
+          }
+        ]
+      },
+      {
+        "order_id": 141,
+        "status": "completed",
+        "total": 240.0,
+        "products": [
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 2,
+            "price": 55.0
+          },
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 1,
+            "price": 130.0
+          }
+        ]
+      },
+      {
+        "order_id": 142,
+        "status": "shipped",
+        "total": 255.0,
+        "products": [
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 3,
+            "price": 85.0
+          }
+        ]
+      },
+      {
+        "order_id": 143,
+        "status": "completed",
+        "total": 530.0,
+        "products": [
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 1,
+            "price": 180.0
+          },
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 3,
+            "price": 85.0
+          },
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 1,
+            "price": 55.0
+          },
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 2,
+            "price": 20.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 47,
+    "name": "Angelica Nelson",
+    "email": "angelica.nelson380@example.com",
+    "city": "Multan",
+    "orders": [
+      {
+        "order_id": 144,
+        "status": "processing",
+        "total": 960.0,
+        "products": [
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 3,
+            "price": 20.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 2,
+            "price": 30.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 3,
+            "price": 280.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 48,
+    "name": "Sierra Collins",
+    "email": "sierra.collins215@example.com",
+    "city": "Sargodha",
+    "orders": [
+      {
+        "order_id": 145,
+        "status": "shipped",
+        "total": 75.0,
+        "products": [
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 1,
+            "price": 75.0
+          }
+        ]
+      },
+      {
+        "order_id": 146,
+        "status": "completed",
+        "total": 315.0,
+        "products": [
+          {
+            "product_name": "WiFi Router",
+            "quantity": 1,
+            "price": 110.0
+          },
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 3,
+            "price": 60.0
+          },
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 1,
+            "price": 25.0
+          }
+        ]
+      },
+      {
+        "order_id": 147,
+        "status": "shipped",
+        "total": 915.0,
+        "products": [
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 2,
+            "price": 180.0
+          },
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 3,
+            "price": 130.0
+          },
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 1,
+            "price": 15.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 2,
+            "price": 75.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 49,
+    "name": "Zachary Austin",
+    "email": "zachary.austin274@example.com",
+    "city": "Kasur",
+    "orders": [
+      {
+        "order_id": 148,
+        "status": "shipped",
+        "total": 600.0,
+        "products": [
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 2,
+            "price": 45.0
+          },
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 2,
+            "price": 180.0
+          },
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 1,
+            "price": 150.0
+          }
+        ]
+      },
+      {
+        "order_id": 149,
+        "status": "completed",
+        "total": 540.0,
+        "products": [
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 3,
+            "price": 180.0
+          }
+        ]
+      },
+      {
+        "order_id": 150,
+        "status": "completed",
+        "total": 110.0,
+        "products": [
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 2,
+            "price": 55.0
+          }
+        ]
+      },
+      {
+        "order_id": 151,
+        "status": "completed",
+        "total": 65.0,
+        "products": [
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 1,
+            "price": 65.0
+          }
+        ]
+      },
+      {
+        "order_id": 152,
+        "status": "completed",
+        "total": 90.0,
+        "products": [
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 2,
+            "price": 45.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 50,
+    "name": "Bethany Murphy",
+    "email": "bethany.murphy960@example.com",
+    "city": "Sheikhupura",
+    "orders": [
+      {
+        "order_id": 153,
+        "status": "completed",
+        "total": 670.0,
+        "products": [
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 1,
+            "price": 280.0
+          },
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 3,
+            "price": 130.0
+          }
+        ]
+      },
+      {
+        "order_id": 154,
+        "status": "completed",
+        "total": 285.0,
+        "products": [
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 3,
+            "price": 70.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 1,
+            "price": 75.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 51,
+    "name": "Justin Phillips",
+    "email": "justin.phillips664@example.com",
+    "city": "Kasur",
+    "orders": [
+      {
+        "order_id": 155,
+        "status": "completed",
+        "total": 215.0,
+        "products": [
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 1,
+            "price": 130.0
+          },
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 1,
+            "price": 85.0
+          }
+        ]
+      },
+      {
+        "order_id": 156,
+        "status": "completed",
+        "total": 660.0,
+        "products": [
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 1,
+            "price": 120.0
+          },
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 3,
+            "price": 180.0
+          }
+        ]
+      },
+      {
+        "order_id": 157,
+        "status": "completed",
+        "total": 180.0,
+        "products": [
+          {
+            "product_name": "Webcam",
+            "quantity": 2,
+            "price": 90.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 52,
+    "name": "Jessica Morgan",
+    "email": "jessica.morgan624@example.com",
+    "city": "Islamabad",
+    "orders": [
+      {
+        "order_id": 158,
+        "status": "completed",
+        "total": 1314.0,
+        "products": [
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 2,
+            "price": 12.0
+          },
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 2,
+            "price": 60.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 3,
+            "price": 280.0
+          },
+          {
+            "product_name": "WiFi Router",
+            "quantity": 3,
+            "price": 110.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 53,
+    "name": "Jill Garcia",
+    "email": "jill.garcia176@example.com",
+    "city": "Sahiwal",
+    "orders": [
+      {
+        "order_id": 159,
+        "status": "shipped",
+        "total": 195.0,
+        "products": [
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 3,
+            "price": 20.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 3,
+            "price": 45.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 54,
+    "name": "Michael Stark",
+    "email": "michael.stark747@example.com",
+    "city": "Rahim Yar Khan",
+    "orders": [
+      {
+        "order_id": 160,
+        "status": "completed",
+        "total": 595.0,
+        "products": [
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 2,
+            "price": 120.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 3,
+            "price": 45.0
+          },
+          {
+            "product_name": "WiFi Router",
+            "quantity": 1,
+            "price": 110.0
+          },
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 2,
+            "price": 55.0
+          }
+        ]
+      },
+      {
+        "order_id": 161,
+        "status": "shipped",
+        "total": 560.0,
+        "products": [
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 2,
+            "price": 280.0
+          }
+        ]
+      },
+      {
+        "order_id": 162,
+        "status": "processing",
+        "total": 785.0,
+        "products": [
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 2,
+            "price": 280.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 3,
+            "price": 75.0
+          }
+        ]
+      },
+      {
+        "order_id": 163,
+        "status": "processing",
+        "total": 626.0,
+        "products": [
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 2,
+            "price": 55.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 3,
+            "price": 12.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 3,
+            "price": 160.0
+          }
+        ]
+      },
+      {
+        "order_id": 164,
+        "status": "shipped",
+        "total": 180.0,
+        "products": [
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 3,
+            "price": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 55,
+    "name": "Zoe Thomas",
+    "email": "zoe.thomas168@example.com",
+    "city": "Quetta",
+    "orders": [
+      {
+        "order_id": 165,
+        "status": "completed",
+        "total": 430.0,
+        "products": [
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 2,
+            "price": 65.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 2,
+            "price": 30.0
+          },
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 2,
+            "price": 15.0
+          },
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 3,
+            "price": 70.0
+          }
+        ]
+      },
+      {
+        "order_id": 166,
+        "status": "completed",
+        "total": 355.0,
+        "products": [
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 2,
+            "price": 15.0
+          },
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 1,
+            "price": 70.0
+          },
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 3,
+            "price": 85.0
+          }
+        ]
+      },
+      {
+        "order_id": 167,
+        "status": "shipped",
+        "total": 280.0,
+        "products": [
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 1,
+            "price": 280.0
+          }
+        ]
+      },
+      {
+        "order_id": 168,
+        "status": "completed",
+        "total": 1035.0,
+        "products": [
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 3,
+            "price": 60.0
+          },
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 3,
+            "price": 180.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 3,
+            "price": 75.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 2,
+            "price": 45.0
+          }
+        ]
+      },
+      {
+        "order_id": 169,
+        "status": "completed",
+        "total": 820.0,
+        "products": [
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 3,
+            "price": 180.0
+          },
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 2,
+            "price": 15.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 2,
+            "price": 45.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 1,
+            "price": 160.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 56,
+    "name": "Shaun Weber",
+    "email": "shaun.weber389@example.com",
+    "city": "Abbottabad",
+    "orders": [
+      {
+        "order_id": 170,
+        "status": "processing",
+        "total": 185.0,
+        "products": [
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 1,
+            "price": 75.0
+          },
+          {
+            "product_name": "WiFi Router",
+            "quantity": 1,
+            "price": 110.0
+          }
+        ]
+      },
+      {
+        "order_id": 171,
+        "status": "completed",
+        "total": 465.0,
+        "products": [
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 2,
+            "price": 60.0
+          },
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 3,
+            "price": 85.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 3,
+            "price": 30.0
+          }
+        ]
+      },
+      {
+        "order_id": 172,
+        "status": "processing",
+        "total": 60.0,
+        "products": [
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 3,
+            "price": 20.0
+          }
+        ]
+      },
+      {
+        "order_id": 173,
+        "status": "completed",
+        "total": 180.0,
+        "products": [
+          {
+            "product_name": "Webcam",
+            "quantity": 2,
+            "price": 90.0
+          }
+        ]
+      },
+      {
+        "order_id": 174,
+        "status": "completed",
+        "total": 810.0,
+        "products": [
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 1,
+            "price": 180.0
+          },
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 3,
+            "price": 120.0
+          },
+          {
+            "product_name": "Webcam",
+            "quantity": 3,
+            "price": 90.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 57,
+    "name": "Deborah Lewis",
+    "email": "deborah.lewis948@example.com",
+    "city": "Gujranwala",
+    "orders": [
+      {
+        "order_id": 175,
+        "status": "completed",
+        "total": 1200.0,
+        "products": [
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 3,
+            "price": 120.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 3,
+            "price": 280.0
+          }
+        ]
+      },
+      {
+        "order_id": 176,
+        "status": "completed",
+        "total": 550.0,
+        "products": [
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 2,
+            "price": 15.0
+          },
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 2,
+            "price": 65.0
+          },
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 3,
+            "price": 70.0
+          },
+          {
+            "product_name": "Webcam",
+            "quantity": 2,
+            "price": 90.0
+          }
+        ]
+      },
+      {
+        "order_id": 177,
+        "status": "processing",
+        "total": 45.0,
+        "products": [
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 1,
+            "price": 45.0
+          }
+        ]
+      },
+      {
+        "order_id": 178,
+        "status": "completed",
+        "total": 560.0,
+        "products": [
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 2,
+            "price": 280.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 58,
+    "name": "Aaron Avila",
+    "email": "aaron.avila705@example.com",
+    "city": "Sahiwal",
+    "orders": [
+      {
+        "order_id": 179,
+        "status": "shipped",
+        "total": 400.0,
+        "products": [
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 1,
+            "price": 20.0
+          },
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 3,
+            "price": 65.0
+          },
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 1,
+            "price": 15.0
+          },
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 2,
+            "price": 85.0
+          }
+        ]
+      },
+      {
+        "order_id": 180,
+        "status": "shipped",
+        "total": 480.0,
+        "products": [
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 3,
+            "price": 160.0
+          }
+        ]
+      },
+      {
+        "order_id": 181,
+        "status": "processing",
+        "total": 579.0,
+        "products": [
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 2,
+            "price": 12.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 3,
+            "price": 160.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 1,
+            "price": 45.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 1,
+            "price": 30.0
+          }
+        ]
+      },
+      {
+        "order_id": 182,
+        "status": "completed",
+        "total": 535.0,
+        "products": [
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 2,
+            "price": 150.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 2,
+            "price": 75.0
+          },
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 1,
+            "price": 85.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 59,
+    "name": "Catherine Butler",
+    "email": "catherine.butler225@example.com",
+    "city": "Rahim Yar Khan",
+    "orders": [
+      {
+        "order_id": 183,
+        "status": "shipped",
+        "total": 720.0,
+        "products": [
+          {
+            "product_name": "Webcam",
+            "quantity": 3,
+            "price": 90.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 3,
+            "price": 75.0
+          },
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 3,
+            "price": 55.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 2,
+            "price": 30.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 60,
+    "name": "Dustin Myers",
+    "email": "dustin.myers333@example.com",
+    "city": "Kasur",
+    "orders": [
+      {
+        "order_id": 184,
+        "status": "shipped",
+        "total": 15.0,
+        "products": [
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 1,
+            "price": 15.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 61,
+    "name": "Ricardo Martinez",
+    "email": "ricardo.martinez787@example.com",
+    "city": "Muzaffargarh",
+    "orders": [
+      {
+        "order_id": 185,
+        "status": "completed",
+        "total": 230.0,
+        "products": [
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 3,
+            "price": 25.0
+          },
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 3,
+            "price": 15.0
+          },
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 2,
+            "price": 55.0
+          }
+        ]
+      },
+      {
+        "order_id": 186,
+        "status": "completed",
+        "total": 55.0,
+        "products": [
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 1,
+            "price": 55.0
+          }
+        ]
+      },
+      {
+        "order_id": 187,
+        "status": "completed",
+        "total": 190.0,
+        "products": [
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 3,
+            "price": 20.0
+          },
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 2,
+            "price": 65.0
+          }
+        ]
+      },
+      {
+        "order_id": 188,
+        "status": "completed",
+        "total": 350.0,
+        "products": [
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 3,
+            "price": 60.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 1,
+            "price": 30.0
+          },
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 2,
+            "price": 15.0
+          },
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 2,
+            "price": 55.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 62,
+    "name": "Sandra Ferguson",
+    "email": "sandra.ferguson58@example.com",
+    "city": "Khanewal",
+    "orders": [
+      {
+        "order_id": 189,
+        "status": "completed",
+        "total": 586.0,
+        "products": [
+          {
+            "product_name": "Webcam",
+            "quantity": 3,
+            "price": 90.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 1,
+            "price": 280.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 3,
+            "price": 12.0
+          }
+        ]
+      },
+      {
+        "order_id": 190,
+        "status": "processing",
+        "total": 600.0,
+        "products": [
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 3,
+            "price": 180.0
+          },
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 3,
+            "price": 20.0
+          }
+        ]
+      },
+      {
+        "order_id": 191,
+        "status": "completed",
+        "total": 195.0,
+        "products": [
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 2,
+            "price": 60.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 1,
+            "price": 75.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 63,
+    "name": "Shawn Harvey",
+    "email": "shawn.harvey842@example.com",
+    "city": "Quetta",
+    "orders": [
+      {
+        "order_id": 192,
+        "status": "processing",
+        "total": 1020.0,
+        "products": [
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 3,
+            "price": 280.0
+          },
+          {
+            "product_name": "Webcam",
+            "quantity": 2,
+            "price": 90.0
+          }
+        ]
+      },
+      {
+        "order_id": 193,
+        "status": "shipped",
+        "total": 310.0,
+        "products": [
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 2,
+            "price": 25.0
+          },
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 1,
+            "price": 70.0
+          },
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 2,
+            "price": 20.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 2,
+            "price": 75.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 64,
+    "name": "Jennifer Jones",
+    "email": "jennifer.jones825@example.com",
+    "city": "Karachi",
+    "orders": [
+      {
+        "order_id": 194,
+        "status": "completed",
+        "total": 540.0,
+        "products": [
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 3,
+            "price": 180.0
+          }
+        ]
+      },
+      {
+        "order_id": 195,
+        "status": "completed",
+        "total": 195.0,
+        "products": [
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 1,
+            "price": 65.0
+          },
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 2,
+            "price": 20.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 2,
+            "price": 45.0
+          }
+        ]
+      },
+      {
+        "order_id": 196,
+        "status": "completed",
+        "total": 60.0,
+        "products": [
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 3,
+            "price": 20.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 65,
+    "name": "Christina Dixon",
+    "email": "christina.dixon411@example.com",
+    "city": "Bahawalpur",
+    "orders": [
+      {
+        "order_id": 197,
+        "status": "shipped",
+        "total": 640.0,
+        "products": [
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 3,
+            "price": 25.0
+          },
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 3,
+            "price": 130.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 1,
+            "price": 45.0
+          },
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 2,
+            "price": 65.0
+          }
+        ]
+      },
+      {
+        "order_id": 198,
+        "status": "processing",
+        "total": 362.0,
+        "products": [
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 1,
+            "price": 12.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 2,
+            "price": 75.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 3,
+            "price": 45.0
+          },
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 1,
+            "price": 65.0
+          }
+        ]
+      },
+      {
+        "order_id": 199,
+        "status": "processing",
+        "total": 195.0,
+        "products": [
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 3,
+            "price": 45.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 2,
+            "price": 30.0
+          }
+        ]
+      },
+      {
+        "order_id": 200,
+        "status": "shipped",
+        "total": 400.0,
+        "products": [
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 2,
+            "price": 180.0
+          },
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 2,
+            "price": 20.0
+          }
+        ]
+      },
+      {
+        "order_id": 201,
+        "status": "shipped",
+        "total": 180.0,
+        "products": [
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 1,
+            "price": 20.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 2,
+            "price": 45.0
+          },
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 1,
+            "price": 70.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 66,
+    "name": "Tracy Conley",
+    "email": "tracy.conley68@example.com",
+    "city": "Gujranwala",
+    "orders": [
+      {
+        "order_id": 202,
+        "status": "shipped",
+        "total": 520.0,
+        "products": [
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 1,
+            "price": 85.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 3,
+            "price": 75.0
+          },
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 3,
+            "price": 70.0
+          }
+        ]
+      },
+      {
+        "order_id": 203,
+        "status": "completed",
+        "total": 720.0,
+        "products": [
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 3,
+            "price": 160.0
+          },
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 3,
+            "price": 55.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 1,
+            "price": 75.0
+          }
+        ]
+      },
+      {
+        "order_id": 204,
+        "status": "completed",
+        "total": 1299.0,
+        "products": [
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 3,
+            "price": 70.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 3,
+            "price": 75.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 2,
+            "price": 12.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 3,
+            "price": 280.0
+          }
+        ]
+      },
+      {
+        "order_id": 205,
+        "status": "completed",
+        "total": 360.0,
+        "products": [
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 2,
+            "price": 180.0
+          }
+        ]
+      },
+      {
+        "order_id": 206,
+        "status": "completed",
+        "total": 180.0,
+        "products": [
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 1,
+            "price": 70.0
+          },
+          {
+            "product_name": "WiFi Router",
+            "quantity": 1,
+            "price": 110.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 67,
+    "name": "Jenny Patterson",
+    "email": "jenny.patterson936@example.com",
+    "city": "Peshawar",
+    "orders": [
+      {
+        "order_id": 207,
+        "status": "completed",
+        "total": 160.0,
+        "products": [
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 1,
+            "price": 160.0
+          }
+        ]
+      },
+      {
+        "order_id": 208,
+        "status": "processing",
+        "total": 210.0,
+        "products": [
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 3,
+            "price": 70.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 68,
+    "name": "Clarence Middleton",
+    "email": "clarence.middleton898@example.com",
+    "city": "Jhelum",
+    "orders": [
+      {
+        "order_id": 209,
+        "status": "processing",
+        "total": 690.0,
+        "products": [
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 3,
+            "price": 75.0
+          },
+          {
+            "product_name": "Webcam",
+            "quantity": 2,
+            "price": 90.0
+          },
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 1,
+            "price": 25.0
+          },
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 2,
+            "price": 130.0
+          }
+        ]
+      },
+      {
+        "order_id": 210,
+        "status": "completed",
+        "total": 515.0,
+        "products": [
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 3,
+            "price": 65.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 2,
+            "price": 160.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 69,
+    "name": "Tyler Shelton",
+    "email": "tyler.shelton323@example.com",
+    "city": "Sheikhupura",
+    "orders": [
+      {
+        "order_id": 211,
+        "status": "processing",
+        "total": 380.0,
+        "products": [
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 1,
+            "price": 160.0
+          },
+          {
+            "product_name": "WiFi Router",
+            "quantity": 2,
+            "price": 110.0
+          }
+        ]
+      },
+      {
+        "order_id": 212,
+        "status": "processing",
+        "total": 582.0,
+        "products": [
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 3,
+            "price": 65.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 2,
+            "price": 160.0
+          },
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 1,
+            "price": 55.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 1,
+            "price": 12.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 70,
+    "name": "Andrew Gutierrez",
+    "email": "andrew.gutierrez672@example.com",
+    "city": "Peshawar",
+    "orders": [
+      {
+        "order_id": 213,
+        "status": "completed",
+        "total": 785.0,
+        "products": [
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 3,
+            "price": 45.0
+          },
+          {
+            "product_name": "WiFi Router",
+            "quantity": 1,
+            "price": 110.0
+          },
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 3,
+            "price": 180.0
+          }
+        ]
+      },
+      {
+        "order_id": 214,
+        "status": "processing",
+        "total": 160.0,
+        "products": [
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 1,
+            "price": 160.0
+          }
+        ]
+      },
+      {
+        "order_id": 215,
+        "status": "completed",
+        "total": 217.0,
+        "products": [
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 2,
+            "price": 65.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 1,
+            "price": 12.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 1,
+            "price": 75.0
+          }
+        ]
+      },
+      {
+        "order_id": 216,
+        "status": "shipped",
+        "total": 375.0,
+        "products": [
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 2,
+            "price": 120.0
+          },
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 3,
+            "price": 15.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 2,
+            "price": 45.0
+          }
+        ]
+      },
+      {
+        "order_id": 217,
+        "status": "completed",
+        "total": 1190.0,
+        "products": [
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 2,
+            "price": 280.0
+          },
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 1,
+            "price": 180.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 3,
+            "price": 30.0
+          },
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 3,
+            "price": 120.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 71,
+    "name": "Donna Castro",
+    "email": "donna.castro406@example.com",
+    "city": "Mardan",
+    "orders": [
+      {
+        "order_id": 218,
+        "status": "completed",
+        "total": 570.0,
+        "products": [
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 2,
+            "price": 45.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 3,
+            "price": 160.0
+          }
+        ]
+      },
+      {
+        "order_id": 219,
+        "status": "completed",
+        "total": 605.0,
+        "products": [
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 2,
+            "price": 65.0
+          },
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 1,
+            "price": 120.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 1,
+            "price": 280.0
+          },
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 3,
+            "price": 25.0
+          }
+        ]
+      },
+      {
+        "order_id": 220,
+        "status": "processing",
+        "total": 300.0,
+        "products": [
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 1,
+            "price": 60.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 1,
+            "price": 160.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 1,
+            "price": 30.0
+          },
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 2,
+            "price": 25.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 72,
+    "name": "Carol Guzman",
+    "email": "carol.guzman937@example.com",
+    "city": "Bannu",
+    "orders": [
+      {
+        "order_id": 221,
+        "status": "shipped",
+        "total": 120.0,
+        "products": [
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 2,
+            "price": 60.0
+          }
+        ]
+      },
+      {
+        "order_id": 222,
+        "status": "processing",
+        "total": 36.0,
+        "products": [
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 3,
+            "price": 12.0
+          }
+        ]
+      },
+      {
+        "order_id": 223,
+        "status": "completed",
+        "total": 205.0,
+        "products": [
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 1,
+            "price": 160.0
+          },
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 3,
+            "price": 15.0
+          }
+        ]
+      },
+      {
+        "order_id": 224,
+        "status": "completed",
+        "total": 70.0,
+        "products": [
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 1,
+            "price": 25.0
+          },
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 3,
+            "price": 15.0
+          }
+        ]
+      },
+      {
+        "order_id": 225,
+        "status": "completed",
+        "total": 1266.0,
+        "products": [
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 3,
+            "price": 280.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 3,
+            "price": 12.0
+          },
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 3,
+            "price": 130.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 73,
+    "name": "Matthew Long",
+    "email": "matthew.long470@example.com",
+    "city": "Sahiwal",
+    "orders": [
+      {
+        "order_id": 226,
+        "status": "shipped",
+        "total": 635.0,
+        "products": [
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 3,
+            "price": 45.0
+          },
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 1,
+            "price": 55.0
+          },
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 2,
+            "price": 180.0
+          },
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 1,
+            "price": 85.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 74,
+    "name": "Heather Carter",
+    "email": "heather.carter272@example.com",
+    "city": "Faisalabad",
+    "orders": [
+      {
+        "order_id": 227,
+        "status": "completed",
+        "total": 75.0,
+        "products": [
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 3,
+            "price": 25.0
+          }
+        ]
+      },
+      {
+        "order_id": 228,
+        "status": "completed",
+        "total": 495.0,
+        "products": [
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 3,
+            "price": 45.0
+          },
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 2,
+            "price": 180.0
+          }
+        ]
+      },
+      {
+        "order_id": 229,
+        "status": "completed",
+        "total": 1145.0,
+        "products": [
+          {
+            "product_name": "WiFi Router",
+            "quantity": 3,
+            "price": 110.0
+          },
+          {
+            "product_name": "Webcam",
+            "quantity": 2,
+            "price": 90.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 1,
+            "price": 75.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 2,
+            "price": 280.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 75,
+    "name": "Jason Gray",
+    "email": "jason.gray253@example.com",
+    "city": "Faisalabad",
+    "orders": [
+      {
+        "order_id": 230,
+        "status": "completed",
+        "total": 300.0,
+        "products": [
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 2,
+            "price": 45.0
+          },
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 3,
+            "price": 70.0
+          }
+        ]
+      },
+      {
+        "order_id": 231,
+        "status": "shipped",
+        "total": 985.0,
+        "products": [
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 2,
+            "price": 85.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 1,
+            "price": 45.0
+          },
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 3,
+            "price": 150.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 2,
+            "price": 160.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 76,
+    "name": "Clinton Copeland",
+    "email": "clinton.copeland575@example.com",
+    "city": "Vehari",
+    "orders": [
+      {
+        "order_id": 232,
+        "status": "completed",
+        "total": 205.0,
+        "products": [
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 2,
+            "price": 15.0
+          },
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 2,
+            "price": 55.0
+          },
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 1,
+            "price": 65.0
+          }
+        ]
+      },
+      {
+        "order_id": 233,
+        "status": "shipped",
+        "total": 1209.0,
+        "products": [
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 3,
+            "price": 180.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 2,
+            "price": 12.0
+          },
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 1,
+            "price": 85.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 2,
+            "price": 280.0
+          }
+        ]
+      },
+      {
+        "order_id": 234,
+        "status": "processing",
+        "total": 420.0,
+        "products": [
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 2,
+            "price": 130.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 1,
+            "price": 160.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 77,
+    "name": "Gerald Butler",
+    "email": "gerald.butler270@example.com",
+    "city": "Rahim Yar Khan",
+    "orders": [
+      {
+        "order_id": 235,
+        "status": "completed",
+        "total": 385.0,
+        "products": [
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 1,
+            "price": 160.0
+          },
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 3,
+            "price": 65.0
+          },
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 2,
+            "price": 15.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 78,
+    "name": "Stacey Mckinney",
+    "email": "stacey.mckinney599@example.com",
+    "city": "Vehari",
+    "orders": [
+      {
+        "order_id": 236,
+        "status": "shipped",
+        "total": 540.0,
+        "products": [
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 3,
+            "price": 180.0
+          }
+        ]
+      },
+      {
+        "order_id": 237,
+        "status": "shipped",
+        "total": 1095.0,
+        "products": [
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 2,
+            "price": 45.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 3,
+            "price": 280.0
+          },
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 3,
+            "price": 55.0
+          }
+        ]
+      },
+      {
+        "order_id": 238,
+        "status": "completed",
+        "total": 225.0,
+        "products": [
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 3,
+            "price": 75.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 79,
+    "name": "Lisa James",
+    "email": "lisa.james920@example.com",
+    "city": "Hyderabad",
+    "orders": [
+      {
+        "order_id": 239,
+        "status": "completed",
+        "total": 900.0,
+        "products": [
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 3,
+            "price": 280.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 2,
+            "price": 30.0
+          }
+        ]
+      },
+      {
+        "order_id": 240,
+        "status": "completed",
+        "total": 355.0,
+        "products": [
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 2,
+            "price": 25.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 2,
+            "price": 45.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 2,
+            "price": 75.0
+          },
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 1,
+            "price": 65.0
+          }
+        ]
+      },
+      {
+        "order_id": 241,
+        "status": "processing",
+        "total": 384.0,
+        "products": [
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 2,
+            "price": 12.0
+          },
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 2,
+            "price": 180.0
+          }
+        ]
+      },
+      {
+        "order_id": 242,
+        "status": "completed",
+        "total": 300.0,
+        "products": [
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 3,
+            "price": 60.0
+          },
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 1,
+            "price": 120.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 80,
+    "name": "Jennifer Scott",
+    "email": "jennifer.scott409@example.com",
+    "city": "Jhelum",
+    "orders": [
+      {
+        "order_id": 243,
+        "status": "processing",
+        "total": 655.0,
+        "products": [
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 3,
+            "price": 130.0
+          },
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 2,
+            "price": 60.0
+          },
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 1,
+            "price": 85.0
+          },
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 3,
+            "price": 20.0
+          }
+        ]
+      },
+      {
+        "order_id": 244,
+        "status": "completed",
+        "total": 1145.0,
+        "products": [
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 2,
+            "price": 150.0
+          },
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 1,
+            "price": 60.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 3,
+            "price": 75.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 2,
+            "price": 280.0
+          }
+        ]
+      },
+      {
+        "order_id": 245,
+        "status": "completed",
+        "total": 1360.0,
+        "products": [
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 3,
+            "price": 180.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 2,
+            "price": 280.0
+          },
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 2,
+            "price": 130.0
+          }
+        ]
+      },
+      {
+        "order_id": 246,
+        "status": "completed",
+        "total": 192.0,
+        "products": [
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 1,
+            "price": 180.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 1,
+            "price": 12.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 81,
+    "name": "Christian Owen",
+    "email": "christian.owen225@example.com",
+    "city": "Sargodha",
+    "orders": [
+      {
+        "order_id": 247,
+        "status": "completed",
+        "total": 580.0,
+        "products": [
+          {
+            "product_name": "WiFi Router",
+            "quantity": 2,
+            "price": 110.0
+          },
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 3,
+            "price": 120.0
+          }
+        ]
+      },
+      {
+        "order_id": 248,
+        "status": "processing",
+        "total": 400.0,
+        "products": [
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 3,
+            "price": 65.0
+          },
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 1,
+            "price": 130.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 1,
+            "price": 75.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 82,
+    "name": "Sarah Porter",
+    "email": "sarah.porter522@example.com",
+    "city": "Faisalabad",
+    "orders": [
+      {
+        "order_id": 249,
+        "status": "shipped",
+        "total": 397.0,
+        "products": [
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 1,
+            "price": 12.0
+          },
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 2,
+            "price": 15.0
+          },
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 3,
+            "price": 25.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 1,
+            "price": 280.0
+          }
+        ]
+      },
+      {
+        "order_id": 250,
+        "status": "shipped",
+        "total": 687.0,
+        "products": [
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 1,
+            "price": 12.0
+          },
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 2,
+            "price": 180.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 3,
+            "price": 75.0
+          },
+          {
+            "product_name": "Webcam",
+            "quantity": 1,
+            "price": 90.0
+          }
+        ]
+      },
+      {
+        "order_id": 251,
+        "status": "completed",
+        "total": 340.0,
+        "products": [
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 1,
+            "price": 160.0
+          },
+          {
+            "product_name": "Webcam",
+            "quantity": 2,
+            "price": 90.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 83,
+    "name": "Carl Griffin",
+    "email": "carl.griffin94@example.com",
+    "city": "Mardan",
+    "orders": [
+      {
+        "order_id": 252,
+        "status": "completed",
+        "total": 1395.0,
+        "products": [
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 3,
+            "price": 280.0
+          },
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 3,
+            "price": 85.0
+          },
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 2,
+            "price": 150.0
+          }
+        ]
+      },
+      {
+        "order_id": 253,
+        "status": "completed",
+        "total": 730.0,
+        "products": [
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 3,
+            "price": 20.0
+          },
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 3,
+            "price": 130.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 1,
+            "price": 280.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 84,
+    "name": "Paul Santos",
+    "email": "paul.santos49@example.com",
+    "city": "Khanewal",
+    "orders": [
+      {
+        "order_id": 254,
+        "status": "processing",
+        "total": 340.0,
+        "products": [
+          {
+            "product_name": "Webcam",
+            "quantity": 3,
+            "price": 90.0
+          },
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 1,
+            "price": 70.0
+          }
+        ]
+      },
+      {
+        "order_id": 255,
+        "status": "completed",
+        "total": 135.0,
+        "products": [
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 3,
+            "price": 45.0
+          }
+        ]
+      },
+      {
+        "order_id": 256,
+        "status": "processing",
+        "total": 540.0,
+        "products": [
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 3,
+            "price": 150.0
+          },
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 3,
+            "price": 25.0
+          },
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 1,
+            "price": 15.0
+          }
+        ]
+      },
+      {
+        "order_id": 257,
+        "status": "shipped",
+        "total": 760.0,
+        "products": [
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 3,
+            "price": 160.0
+          },
+          {
+            "product_name": "WiFi Router",
+            "quantity": 2,
+            "price": 110.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 2,
+            "price": 30.0
+          }
+        ]
+      },
+      {
+        "order_id": 258,
+        "status": "shipped",
+        "total": 45.0,
+        "products": [
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 1,
+            "price": 45.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 85,
+    "name": "Michelle Cole",
+    "email": "michelle.cole113@example.com",
+    "city": "Dera Ghazi Khan",
+    "orders": [
+      {
+        "order_id": 259,
+        "status": "shipped",
+        "total": 945.0,
+        "products": [
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 2,
+            "price": 65.0
+          },
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 3,
+            "price": 150.0
+          },
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 2,
+            "price": 70.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 3,
+            "price": 75.0
+          }
+        ]
+      },
+      {
+        "order_id": 260,
+        "status": "completed",
+        "total": 414.0,
+        "products": [
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 2,
+            "price": 75.0
+          },
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 1,
+            "price": 180.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 2,
+            "price": 12.0
+          },
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 1,
+            "price": 60.0
+          }
+        ]
+      },
+      {
+        "order_id": 261,
+        "status": "completed",
+        "total": 480.0,
+        "products": [
+          {
+            "product_name": "Desk Mat",
+            "quantity": 2,
+            "price": 30.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 2,
+            "price": 75.0
+          },
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 3,
+            "price": 60.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 2,
+            "price": 45.0
+          }
+        ]
+      },
+      {
+        "order_id": 262,
+        "status": "completed",
+        "total": 260.0,
+        "products": [
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 3,
+            "price": 70.0
+          },
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 2,
+            "price": 25.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 86,
+    "name": "Stephanie Sandoval",
+    "email": "stephanie.sandoval643@example.com",
+    "city": "Faisalabad",
+    "orders": [
+      {
+        "order_id": 263,
+        "status": "completed",
+        "total": 519.0,
+        "products": [
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 2,
+            "price": 12.0
+          },
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 1,
+            "price": 65.0
+          },
+          {
+            "product_name": "WiFi Router",
+            "quantity": 1,
+            "price": 110.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 2,
+            "price": 160.0
+          }
+        ]
+      },
+      {
+        "order_id": 264,
+        "status": "processing",
+        "total": 825.0,
+        "products": [
+          {
+            "product_name": "Desk Mat",
+            "quantity": 1,
+            "price": 30.0
+          },
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 2,
+            "price": 150.0
+          },
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 2,
+            "price": 180.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 3,
+            "price": 45.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 87,
+    "name": "George Reynolds",
+    "email": "george.reynolds812@example.com",
+    "city": "Multan",
+    "orders": [
+      {
+        "order_id": 265,
+        "status": "completed",
+        "total": 120.0,
+        "products": [
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 2,
+            "price": 60.0
+          }
+        ]
+      },
+      {
+        "order_id": 266,
+        "status": "completed",
+        "total": 310.0,
+        "products": [
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 1,
+            "price": 180.0
+          },
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 2,
+            "price": 55.0
+          },
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 1,
+            "price": 20.0
+          }
+        ]
+      },
+      {
+        "order_id": 267,
+        "status": "processing",
+        "total": 490.0,
+        "products": [
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 2,
+            "price": 180.0
+          },
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 1,
+            "price": 130.0
+          }
+        ]
+      },
+      {
+        "order_id": 268,
+        "status": "shipped",
+        "total": 570.0,
+        "products": [
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 1,
+            "price": 130.0
+          },
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 2,
+            "price": 85.0
+          },
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 2,
+            "price": 60.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 2,
+            "price": 75.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 88,
+    "name": "Jenna Boyle",
+    "email": "jenna.boyle433@example.com",
+    "city": "Kasur",
+    "orders": [
+      {
+        "order_id": 269,
+        "status": "completed",
+        "total": 336.0,
+        "products": [
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 2,
+            "price": 150.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 3,
+            "price": 12.0
+          }
+        ]
+      },
+      {
+        "order_id": 270,
+        "status": "completed",
+        "total": 45.0,
+        "products": [
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 1,
+            "price": 45.0
+          }
+        ]
+      },
+      {
+        "order_id": 271,
+        "status": "completed",
+        "total": 407.0,
+        "products": [
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 1,
+            "price": 12.0
+          },
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 2,
+            "price": 65.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 3,
+            "price": 75.0
+          },
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 2,
+            "price": 20.0
+          }
+        ]
+      },
+      {
+        "order_id": 272,
+        "status": "completed",
+        "total": 716.0,
+        "products": [
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 3,
+            "price": 20.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 3,
+            "price": 160.0
+          },
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 2,
+            "price": 70.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 3,
+            "price": 12.0
+          }
+        ]
+      },
+      {
+        "order_id": 273,
+        "status": "processing",
+        "total": 760.0,
+        "products": [
+          {
+            "product_name": "WiFi Router",
+            "quantity": 2,
+            "price": 110.0
+          },
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 3,
+            "price": 120.0
+          },
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 1,
+            "price": 180.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 89,
+    "name": "Ashley Peck",
+    "email": "ashley.peck66@example.com",
+    "city": "Okara",
+    "orders": [
+      {
+        "order_id": 274,
+        "status": "processing",
+        "total": 945.0,
+        "products": [
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 3,
+            "price": 120.0
+          },
+          {
+            "product_name": "WiFi Router",
+            "quantity": 3,
+            "price": 110.0
+          },
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 3,
+            "price": 85.0
+          }
+        ]
+      },
+      {
+        "order_id": 275,
+        "status": "completed",
+        "total": 50.0,
+        "products": [
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 2,
+            "price": 25.0
+          }
+        ]
+      },
+      {
+        "order_id": 276,
+        "status": "completed",
+        "total": 315.0,
+        "products": [
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 1,
+            "price": 75.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 1,
+            "price": 30.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 2,
+            "price": 45.0
+          },
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 2,
+            "price": 60.0
+          }
+        ]
+      },
+      {
+        "order_id": 277,
+        "status": "shipped",
+        "total": 480.0,
+        "products": [
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 2,
+            "price": 15.0
+          },
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 3,
+            "price": 150.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 90,
+    "name": "Jerry Parsons",
+    "email": "jerry.parsons391@example.com",
+    "city": "Sukkur",
+    "orders": [
+      {
+        "order_id": 278,
+        "status": "shipped",
+        "total": 225.0,
+        "products": [
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 3,
+            "price": 75.0
+          }
+        ]
+      },
+      {
+        "order_id": 279,
+        "status": "completed",
+        "total": 342.0,
+        "products": [
+          {
+            "product_name": "WiFi Router",
+            "quantity": 2,
+            "price": 110.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 1,
+            "price": 12.0
+          },
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 2,
+            "price": 55.0
+          }
+        ]
+      },
+      {
+        "order_id": 280,
+        "status": "processing",
+        "total": 835.0,
+        "products": [
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 3,
+            "price": 130.0
+          },
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 2,
+            "price": 180.0
+          },
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 1,
+            "price": 85.0
+          }
+        ]
+      },
+      {
+        "order_id": 281,
+        "status": "completed",
+        "total": 670.0,
+        "products": [
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 2,
+            "price": 130.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 2,
+            "price": 160.0
+          },
+          {
+            "product_name": "Desk Mat",
+            "quantity": 3,
+            "price": 30.0
+          }
+        ]
+      },
+      {
+        "order_id": 282,
+        "status": "completed",
+        "total": 1045.0,
+        "products": [
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 2,
+            "price": 70.0
+          },
+          {
+            "product_name": "WiFi Router",
+            "quantity": 1,
+            "price": 110.0
+          },
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 3,
+            "price": 180.0
+          },
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 3,
+            "price": 85.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 91,
+    "name": "Theresa Young",
+    "email": "theresa.young480@example.com",
+    "city": "Okara",
+    "orders": [
+      {
+        "order_id": 283,
+        "status": "shipped",
+        "total": 835.0,
+        "products": [
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 2,
+            "price": 180.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 3,
+            "price": 75.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 1,
+            "price": 160.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 2,
+            "price": 45.0
+          }
+        ]
+      },
+      {
+        "order_id": 284,
+        "status": "shipped",
+        "total": 705.0,
+        "products": [
+          {
+            "product_name": "WiFi Router",
+            "quantity": 3,
+            "price": 110.0
+          },
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 2,
+            "price": 150.0
+          },
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 3,
+            "price": 25.0
+          }
+        ]
+      },
+      {
+        "order_id": 285,
+        "status": "completed",
+        "total": 85.0,
+        "products": [
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 1,
+            "price": 60.0
+          },
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 1,
+            "price": 25.0
+          }
+        ]
+      },
+      {
+        "order_id": 286,
+        "status": "completed",
+        "total": 120.0,
+        "products": [
+          {
+            "product_name": "Desk Mat",
+            "quantity": 1,
+            "price": 30.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 2,
+            "price": 45.0
+          }
+        ]
+      },
+      {
+        "order_id": 287,
+        "status": "completed",
+        "total": 765.0,
+        "products": [
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 2,
+            "price": 60.0
+          },
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 3,
+            "price": 75.0
+          },
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 2,
+            "price": 120.0
+          },
+          {
+            "product_name": "Webcam",
+            "quantity": 2,
+            "price": 90.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 92,
+    "name": "Jillian Donaldson",
+    "email": "jillian.donaldson258@example.com",
+    "city": "Gujrat",
+    "orders": [
+      {
+        "order_id": 288,
+        "status": "completed",
+        "total": 895.0,
+        "products": [
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 3,
+            "price": 160.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 3,
+            "price": 45.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 1,
+            "price": 280.0
+          }
+        ]
+      },
+      {
+        "order_id": 289,
+        "status": "processing",
+        "total": 180.0,
+        "products": [
+          {
+            "product_name": "Webcam",
+            "quantity": 2,
+            "price": 90.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 93,
+    "name": "Bianca White",
+    "email": "bianca.white882@example.com",
+    "city": "Rahim Yar Khan",
+    "orders": [
+      {
+        "order_id": 290,
+        "status": "completed",
+        "total": 905.0,
+        "products": [
+          {
+            "product_name": "WiFi Router",
+            "quantity": 1,
+            "price": 110.0
+          },
+          {
+            "product_name": "Webcam",
+            "quantity": 2,
+            "price": 90.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 3,
+            "price": 160.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 3,
+            "price": 45.0
+          }
+        ]
+      },
+      {
+        "order_id": 291,
+        "status": "completed",
+        "total": 740.0,
+        "products": [
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 3,
+            "price": 160.0
+          },
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 2,
+            "price": 65.0
+          },
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 1,
+            "price": 130.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 94,
+    "name": "Eric Ryan",
+    "email": "eric.ryan697@example.com",
+    "city": "Lahore",
+    "orders": [
+      {
+        "order_id": 292,
+        "status": "shipped",
+        "total": 470.0,
+        "products": [
+          {
+            "product_name": "Noise Cancelling Headphones",
+            "quantity": 1,
+            "price": 150.0
+          },
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 3,
+            "price": 60.0
+          },
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 2,
+            "price": 70.0
+          }
+        ]
+      },
+      {
+        "order_id": 293,
+        "status": "completed",
+        "total": 450.0,
+        "products": [
+          {
+            "product_name": "Mechanical Keyboard",
+            "quantity": 2,
+            "price": 120.0
+          },
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 3,
+            "price": 70.0
+          }
+        ]
+      },
+      {
+        "order_id": 294,
+        "status": "completed",
+        "total": 205.0,
+        "products": [
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 2,
+            "price": 20.0
+          },
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 3,
+            "price": 55.0
+          }
+        ]
+      },
+      {
+        "order_id": 295,
+        "status": "completed",
+        "total": 165.0,
+        "products": [
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 3,
+            "price": 55.0
+          }
+        ]
+      },
+      {
+        "order_id": 296,
+        "status": "completed",
+        "total": 260.0,
+        "products": [
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 2,
+            "price": 75.0
+          },
+          {
+            "product_name": "WiFi Router",
+            "quantity": 1,
+            "price": 110.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 95,
+    "name": "Andrea Underwood",
+    "email": "andrea.underwood118@example.com",
+    "city": "Vehari",
+    "orders": [
+      {
+        "order_id": 297,
+        "status": "completed",
+        "total": 720.0,
+        "products": [
+          {
+            "product_name": "Desk Mat",
+            "quantity": 2,
+            "price": 30.0
+          },
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 3,
+            "price": 65.0
+          },
+          {
+            "product_name": "Bluetooth Speaker",
+            "quantity": 3,
+            "price": 85.0
+          },
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 3,
+            "price": 70.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 96,
+    "name": "Jeremy Richardson",
+    "email": "jeremy.richardson907@example.com",
+    "city": "Kasur",
+    "orders": [
+      {
+        "order_id": 298,
+        "status": "completed",
+        "total": 210.0,
+        "products": [
+          {
+            "product_name": "Desk Mat",
+            "quantity": 2,
+            "price": 30.0
+          },
+          {
+            "product_name": "Wireless Mouse",
+            "quantity": 2,
+            "price": 45.0
+          },
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 1,
+            "price": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 97,
+    "name": "Christine Burns",
+    "email": "christine.burns769@example.com",
+    "city": "Rahim Yar Khan",
+    "orders": [
+      {
+        "order_id": 299,
+        "status": "processing",
+        "total": 520.0,
+        "products": [
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 3,
+            "price": 60.0
+          },
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 1,
+            "price": 160.0
+          },
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 1,
+            "price": 180.0
+          }
+        ]
+      },
+      {
+        "order_id": 300,
+        "status": "completed",
+        "total": 825.0,
+        "products": [
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 3,
+            "price": 75.0
+          },
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 3,
+            "price": 65.0
+          },
+          {
+            "product_name": "1080p Monitor",
+            "quantity": 2,
+            "price": 180.0
+          },
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 3,
+            "price": 15.0
+          }
+        ]
+      },
+      {
+        "order_id": 301,
+        "status": "completed",
+        "total": 620.0,
+        "products": [
+          {
+            "product_name": "Smartphone Stand",
+            "quantity": 3,
+            "price": 20.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 2,
+            "price": 280.0
+          }
+        ]
+      },
+      {
+        "order_id": 302,
+        "status": "processing",
+        "total": 535.0,
+        "products": [
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 1,
+            "price": 280.0
+          },
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 3,
+            "price": 25.0
+          },
+          {
+            "product_name": "USB-C Hub",
+            "quantity": 3,
+            "price": 60.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 98,
+    "name": "Joshua Rivera",
+    "email": "joshua.rivera788@example.com",
+    "city": "Gujranwala",
+    "orders": [
+      {
+        "order_id": 303,
+        "status": "processing",
+        "total": 410.0,
+        "products": [
+          {
+            "product_name": "Webcam",
+            "quantity": 3,
+            "price": 90.0
+          },
+          {
+            "product_name": "Gaming Mouse",
+            "quantity": 2,
+            "price": 70.0
+          }
+        ]
+      },
+      {
+        "order_id": 304,
+        "status": "completed",
+        "total": 355.0,
+        "products": [
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 1,
+            "price": 25.0
+          },
+          {
+            "product_name": "WiFi Router",
+            "quantity": 3,
+            "price": 110.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 99,
+    "name": "Jacqueline Frazier",
+    "email": "jacqueline.frazier349@example.com",
+    "city": "Sahiwal",
+    "orders": [
+      {
+        "order_id": 305,
+        "status": "completed",
+        "total": 412.0,
+        "products": [
+          {
+            "product_name": "Laptop Stand",
+            "quantity": 3,
+            "price": 75.0
+          },
+          {
+            "product_name": "Ethernet Cable",
+            "quantity": 1,
+            "price": 12.0
+          },
+          {
+            "product_name": "USB-C Cable",
+            "quantity": 3,
+            "price": 15.0
+          },
+          {
+            "product_name": "Laptop Backpack",
+            "quantity": 2,
+            "price": 65.0
+          }
+        ]
+      },
+      {
+        "order_id": 306,
+        "status": "completed",
+        "total": 110.0,
+        "products": [
+          {
+            "product_name": "Power Bank 20000mAh",
+            "quantity": 2,
+            "price": 55.0
+          }
+        ]
+      },
+      {
+        "order_id": 307,
+        "status": "completed",
+        "total": 585.0,
+        "products": [
+          {
+            "product_name": "USB Flash Drive 128GB",
+            "quantity": 1,
+            "price": 25.0
+          },
+          {
+            "product_name": "27-inch Monitor",
+            "quantity": 2,
+            "price": 280.0
+          }
+        ]
+      },
+      {
+        "order_id": 308,
+        "status": "completed",
+        "total": 130.0,
+        "products": [
+          {
+            "product_name": "External SSD 1TB",
+            "quantity": 1,
+            "price": 130.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customer_id": 100,
+    "name": "Richard Park",
+    "email": "richard.park301@example.com",
+    "city": "Rawalpindi",
+    "orders": [
+      {
+        "order_id": 309,
+        "status": "shipped",
+        "total": 320.0,
+        "products": [
+          {
+            "product_name": "Mechanical Gaming Keyboard",
+            "quantity": 2,
+            "price": 160.0
+          }
+        ]
+      }
+    ]
+  }
+]
